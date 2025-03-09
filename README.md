@@ -32,4 +32,4 @@ A great professional looking and fully responsive personal website to showcase y
 ## Author
 
 Email - digitalsourav06@gmail.com
-Portfolio - https://www.instagram.com/tech.rudra_?igsh=MTM1N3dlZ2Fvdm91dQ==
+Portfolio -https://souravhati143.github.io/Sourav-Hati/
